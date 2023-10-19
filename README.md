@@ -65,7 +65,6 @@
 <body>
     <div id="main">
         <h1>Онлайн магазин</h1>
-        <img src="https://i.pinimg.com/originals/06/5d/93/065d9331d97593b6e570b78833ce794a.jpg">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium ipsum magni, molestias.</p>
         <button id="buy">Купить</button>
     </div>
